@@ -1,0 +1,8 @@
+1. Source Code: The set of instructions which are written in IDE & given to the computer for execution & get the output. It is saved as a '.java'.
+
+2. Native Code: It is in the format of 0's & 1's. Which makes the processor run. All instructions to a processor are given in the form of Native Code.
+   
+Byte Code: Byte Code is generated after compiling the Source Code, which is not understandable by humans and Softwares. It makes JVMs run, which are present in any of the OS.
+
+3. Explain how Java is both a compiled and interpreted language.
+A: The Source code is compiled by the Compiler and converted to a byte code. The byte code is sent to JVM, and then it translates to Machine code. So, java is performing both Compilation & Interpretation to get to understand to the Machine
